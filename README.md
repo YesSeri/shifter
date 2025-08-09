@@ -4,7 +4,6 @@ Install with `cargo install shifter`
 Use like this:
 
 ```
-cat input.txt | shifter 3
 $ cat input.txt
 a
 b
