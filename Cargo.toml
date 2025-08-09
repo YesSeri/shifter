@@ -6,6 +6,9 @@ license = "MIT"
 description = "A CLI tool to rotate lines from stdin by n positions"
 keywords = ["cli", "text", "lines", "rotate", "unix-tool"]
 categories = ["command-line-utilities", "text-processing"]
+repository = "https://github.com/henrikzenkert/shifter"
+homepage = "https://github.com/henrikzenkert/shifter"
+documentation = "https://docs.rs/shifter"
 
 [[bin]]
 name = "shifter"
