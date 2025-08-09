@@ -3,6 +3,9 @@ name = "shifter"
 version = "0.1.2"
 edition = "2021"
 license = "MIT"
+description = "A CLI tool to rotate lines from stdin by n positions"
+keywords = ["cli", "text", "lines", "rotate", "unix-tool"]
+categories = ["command-line-utilities", "text-processing"]
 
 [[bin]]
 name = "shifter"
